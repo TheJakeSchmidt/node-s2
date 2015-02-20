@@ -75,7 +75,7 @@
               '-Wno-deprecated',
               '-Wno-ignored-qualifiers',
               '-DARCH_K8 -DS2_USE_EXACTFLOAT',
-              '-std=c++11'
+              '-std=c++0x'
             ],
         }]
       ]
